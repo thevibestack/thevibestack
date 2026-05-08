@@ -23,27 +23,3 @@ Soy de México. Me apasiona la tecnología y actualmente ando construyendo cosas
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-00D9FF?style=flat&logo=visual-studio-code&logoColor=white)
 ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-FF6B35?style=flat&logo=robot&logoColor=white)
-
----
-
-### 📊 Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thevibestack&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/thevibestack)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thevibestack&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/thevibestack)
-
-</div>
-
----
-
-### 🏆 Trofeos
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=thevibestack&theme=radical&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🐍 Contribuciones
-
-![Snake animation](https://github.com/thevibestack/thevibestack/blob/output/github-contribution-grid-snake.svg)
