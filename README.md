@@ -23,7 +23,11 @@ ChatGPT    →    Cursor    →    Antigravity    →    Claude    →    Hermes
   🔥            ⚡              🚀                🤖               🧠                    🎯
 ```
 
-> *"No pidas permiso para salvar el mundo. Simplemente empieza a construir la solución."*
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=8000&pause=2000&color=EAB308&center=true&vCenter=true&width=1000&lines=No+pidas+permiso+para+salvar+el+mundo.+Simplemente+empieza+a+construir+la+soluci%C3%B3n.+%F0%9F%9A%80;Si+vas+a+estar+pensando+de+todos+modos%2C+piensa+en+grande.+%F0%9F%92%AD;El+rigor+de+la+f%C3%ADsica+no+acepta+excusas%3B+el+c%C3%B3digo+tampoco.+Ejecuta+o+desaparece.+%F0%9F%94%A5;La+audacia+no+es+la+ausencia+de+miedo%2C+es+la+decisi%C3%B3n+de+que+algo+m%C3%A1s+es+m%C3%A1s+importante+que+la+aprobaci%C3%B3n+ajena.+%E2%9A%A1)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
