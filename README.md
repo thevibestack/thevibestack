@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=TheVibeStack+%F0%9F%87%B2%F0%9F%87%BD;Agent+Orchestrator;AI+Builder;Shipping+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=TheVibeStack+%F0%9F%87%B2%F0%9F%87%BD)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Agent+Orchestrator;AI+Builder;Product+Shipper;Vibe+Coder)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,7 +23,7 @@ ChatGPT    →    Cursor    →    Antigravity    →    Claude    →    Hermes
   🔥            ⚡              🚀                🤖               🧠                    🎯
 ```
 
-Cada herramienta fue un paso adelante. Cada transición, un nivel arriba.
+> *"No pidas permiso para salvar el mundo. Simplemente empieza a construir la solución."*
 
 ---
 
