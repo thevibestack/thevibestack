@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <title>Trazolab — Co-fundador — trazolab.com</title>
+  <defs>
+    <linearGradient id="tzBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0014"/>
+      <stop offset="100%" stop-color="#14002e"/>
+    </linearGradient>
+    <linearGradient id="tzBorder" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00D9FF"/>
+      <stop offset="50%" stop-color="#9D4EDD"/>
+      <stop offset="100%" stop-color="#FF00E5"/>
+    </linearGradient>
+    <filter id="tzGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="tzTextGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#tzBg)"/>
+
+  <!-- Stars -->
+  <g fill="#ffffff" opacity="0.45">
+    <circle cx="100" cy="40" r="1.1"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="30" r="1"><animate attributeName="opacity" values="0.65;0.12;0.65" dur="2.7s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1100" cy="50" r="1.2"><animate attributeName="opacity" values="0.7;0.15;0.7" dur="3.6s" begin="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="950" cy="220" r="1"><animate attributeName="opacity" values="0.55;0.1;0.55" dur="4s" begin="0.4s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Panel with electric border -->
+  <rect x="60" y="40" width="1080" height="180" rx="18" fill="#10002a" stroke="url(#tzBorder)" stroke-width="1.5" opacity="0.9"/>
+  <rect x="60" y="40" width="1080" height="180" rx="18" fill="none" stroke="#00D9FF" stroke-width="3" stroke-dasharray="90 2470" filter="url(#tzGlow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-2560" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="60" y="40" width="1080" height="180" rx="18" fill="none" stroke="#FF00E5" stroke-width="3" stroke-dasharray="60 2500" filter="url(#tzGlow)" opacity="0.8">
+    <animate attributeName="stroke-dashoffset" from="-1280" to="-3840" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Isometric mini cube with TZ sticker -->
+  <g>
+    <polygon points="140,105 190,76 240,105 190,134" fill="#9D4EDD"/>
+    <polygon points="140,105 190,134 190,168 140,139" fill="#9D4EDD"/>
+    <polygon points="140,105 190,134 190,168 140,139" fill="#000000" opacity="0.5"/>
+    <polygon points="240,105 190,134 190,168 240,139" fill="#9D4EDD"/>
+    <polygon points="240,105 190,134 190,168 240,139" fill="#000000" opacity="0.28"/>
+    <polyline points="140,105 190,76 240,105" fill="none" stroke="#c77dff" stroke-width="2" filter="url(#tzTextGlow)">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+    </polyline>
+    <text transform="matrix(1,0.5,0,1,165,143)" font-family="'Fira Code','Courier New',monospace" font-size="17" font-weight="700" text-anchor="middle" dominant-baseline="central" fill="#ffffff" filter="url(#tzTextGlow)">TZ</text>
+  </g>
+
+  <!-- Text content -->
+  <g font-family="'Fira Code','Courier New',monospace">
+    <text x="300" y="118" font-size="46" font-weight="700" fill="#00D9FF" filter="url(#tzGlow)">TRAZOLAB
+      <animate attributeName="opacity" values="1;0.9;1" dur="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="300" y="156" font-size="18" fill="#EAB308" letter-spacing="2">Co-fundador · trazolab.com</text>
+    <text x="300" y="188" font-size="14" fill="#8b93a7">Construyendo productos con IA desde México</text>
+  </g>
+
+  <!-- Floating particles inside panel -->
+  <g fill="#00D9FF">
+    <circle cx="1000" cy="180" r="2"><animate attributeName="cy" values="180;70;180" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="1070" cy="190" r="1.6" fill="#FF00E5"><animate attributeName="cy" values="190;80;190" dur="10s" begin="2.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.75;0" dur="10s" begin="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="185" r="1.6" fill="#EAB308"><animate attributeName="cy" values="185;75;185" dur="9s" begin="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="9s" begin="5s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
